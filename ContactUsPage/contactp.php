@@ -10,7 +10,7 @@ $body = "Name: $name\nEmail: $email\n\n$message"; // Compose the body of the ema
 $headers = "From: $name <$email>" . "\r\n"; // Set the "From" header for the email, including the name and email of the sender
 $headers .= "Reply-To: $email" . "\r\n"; // Set the "Reply-To" header for the email, indicating the email to which replies should be sent
 
-// Send the email using the mail() function
+// Send email using the mail() function
 $mailSent = mail($to, $subject, $body, $headers);
 
 // Check if the email was sent successfully and display a success message
