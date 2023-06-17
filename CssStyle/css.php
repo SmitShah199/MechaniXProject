@@ -104,4 +104,84 @@ figure.effect-apollo:hover figcaption::before {
 }
 
 
-//Contactus Page Styling
+//Contactus Page Styling- start//
+
+.w3aitscontactagile h1 {
+	font-size: 40px;
+	margin-bottom: 50px;
+}
+
+.w3aitscontactagile {
+	padding: 100px 0;
+}
+
+.contact-info-grid {
+	padding: 0;
+}
+
+.contact-info-grid-2 {
+	padding: 45px;
+}
+
+.contact-info-grid-2 h2 {
+	text-align: left;
+	font-size: 35px;
+	color: #000;
+	margin-bottom: 30px;
+}
+
+.contact-info-grid-2 p {
+	line-height: 30px;
+}
+
+.wthreeaddressaits {
+	padding: 100px 0;
+}
+
+.wthreeaddressaits-grid {
+	padding: 0;
+}
+
+.wthreeaddressaits-grid1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.wthreeaddressaits-grid1 h4 {
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+.wthreeaddressaits-grid1 ul li {
+	display: block;
+	line-height: 25px;
+}
+
+address {
+	margin-bottom: 0;
+}
+
+.aitsphonew3l {
+	margin: 35px 0;
+}
+
+.aitsemailw3l ul li a {
+	color: #333;
+}
+
+.aitsemailw3l ul li a:hover {
+	color: #c41228;
+}
+
+.wthreeaddressaits-grid2 input.text, .wthreeaddressaits-grid2 textarea.text {
+	margin-bottom: 10px;
+	padding: 12px;
+	font-family: inherit;
+	font-size: 13px;
+}
+
+textarea.text {
+	height: 100px;
+}
+
+//Contactus Page Styling- end//
+
